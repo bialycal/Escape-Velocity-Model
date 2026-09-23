@@ -7,9 +7,9 @@ The simulation explores how factors such as the mass and radius of the celestial
 
 The escape velocity is given by:
 
-\[
+$$
 v_e = \sqrt{\frac{2GM}{r}}
-\]
+$$
 
 Where:
 
