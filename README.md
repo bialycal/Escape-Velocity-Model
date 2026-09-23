@@ -13,10 +13,10 @@ $$
 
 Where:
 
-- \(v_e\): escape velocity (m/s)
-- \(G\): gravitational constant
-- \(M\): mass of the celestial body (kg)
-- \(r\): distance from the center of the celestial body (m)
+- $v_e$ is the escape velocity (m/s)
+- $G$ is the gravitational constant ($6.67430 \times 10^{-11}\ \text{m}^3\text{kg}^{-1}\text{s}^{-2}$)
+- $M$ is the mass of the celestial body (kg)
+- $r$ is the distance from the center of the celestial body (m)
 
 ## Objectives
 
