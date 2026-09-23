@@ -1,5 +1,7 @@
 # Escape Velocity Simulation
 
+![Ilustración del razonamiento de Isaac Newton](images/ilustracion.webp)
+
 This project aims to model and simulate the escape velocity of an object under the gravitational field of a celestial body using Newton's law of universal gravitation.  
 The simulation explores how factors such as the mass and radius of the celestial body, as well as the object's initial velocity, affect its ability to escape the gravitational field.
 
